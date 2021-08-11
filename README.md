@@ -2,74 +2,64 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Brother!+👋;Este+sou+eu+MarcusBohessef....;Obrigado+por+me+conhecer!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/marcus-vinicius-bohessef-724833203/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+<code><a href="https://marcusbohessef.tech" title="CV"><img width="22" src="https://image.flaticon.com/icons/png/512/3135/3135692.png"> Curriculo Vitae</a></code>  
+<code><a href="https://www.instagram.com/_marcusbohessef_" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
+  Devops & Web Developer & Marketing Digital
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 Atualmente trabalho na area de Devops & Web Developer & Marketing Digital
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 Estudo todos os dias na udemy e entre outros cursos
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 Eu gosto muito de infra!
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 Atualmente estou estudando sobre clusters
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 fale comigo! <a href="mailto: marcusbohessef83@gmail.com">marcusbohessef83@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Minhas Habilidades 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  
+  
+  
+  <code><img title="Resolver Problemas" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/gulp.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.png"></code>
   <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
+  <code><img title="Docker" height="25" src="https://image.flaticon.com/icons/png/512/919/919853.png"></code>
+  <code><img title="Docker Compose" height="25" src="https://image.flaticon.com/icons/png/512/919/919853.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
+  <code><img title="MARIADB" height="25" src="https://developer.fedoraproject.org/static/logo/mariadb.png"></code>
   <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
+  <code><img title="Portainer.io" height="25" src="https://www.pngfind.com/pngs/m/537-5378357_portainer-io-logo-hd-png-download.png"></code>
+  <code><img title="Linux" height="25" src="https://image.flaticon.com/icons/png/512/226/226772.png"></code>
+  <code><img title="WORDPRESS" height="25" src="https://image.flaticon.com/icons/png/512/168/168810.png"></code>
+  <code><img title="MARKETING" height="25" src="https://img-premium.flaticon.com/png/512/2977/premium/2977865.png?token=exp=1628694658~hmac=33b212ee7df699c905d47bd7ec8ddd9b"></code>
+  <code><img title="SEO" height="25" src="https://img-premium.flaticon.com/png/512/1390/premium/1390710.png?token=exp=1628694658~hmac=84802cb7e3d194da572ed4ba59a17ece"></code>
+  <code><img title="Kubernetes" height="25" src="https://img-premium.flaticon.com/png/512/3295/premium/3295374.png?token=exp=1628694762~hmac=ef9640b558402d7c7a617a7ea67dd386"></code>
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
