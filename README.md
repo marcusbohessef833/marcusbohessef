@@ -81,31 +81,6 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositorios Atuais 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/marcusbohessef833/agrob2b" title="B2B"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=B2B&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/marcusbohessef833/agrob2b" title="AgroB2B"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Agrob2b&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/marcusbohessef833/lancermidia" title="Lancer Midia"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Lancer Midia&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/marcusbohessef833/lancermidia" title="Lancer Midia"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/marcusbohessef833/seopanel" title="Seo Panel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/marcusbohessef833/seopanel" title="Seo Panel"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Seo Panel=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/marcusbohessef833/delivery" title="Delivery"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/marcusbohessef833/delivery" title="Delivery"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Delivery&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/marcusbohessef833?tab=repositories" title="Veja Mais">🔎 Mostrar Mais 🔍</a>
-</h4>
-
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
