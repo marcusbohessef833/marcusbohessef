@@ -56,6 +56,9 @@
   <code><img title="MARKETING" height="25" src="https://img-premium.flaticon.com/png/512/2977/premium/2977865.png?token=exp=1628694658~hmac=33b212ee7df699c905d47bd7ec8ddd9b"></code>
   <code><img title="SEO" height="25" src="https://img-premium.flaticon.com/png/512/1390/premium/1390710.png?token=exp=1628694658~hmac=84802cb7e3d194da572ed4ba59a17ece"></code>
   <code><img title="Kubernetes" height="25" src="https://img-premium.flaticon.com/png/512/3295/premium/3295374.png?token=exp=1628694762~hmac=ef9640b558402d7c7a617a7ea67dd386"></code>
+  <code><img title="Rancher" height="25" src="https://symbols.getvecta.com/stencil_94/12_rancher-icon.08fe5db34f.svg"></code>
+  <code><img title="Multicluster" height="25" src="https://img-premium.flaticon.com/png/512/3289/premium/3289895.png?token=exp=1628694762~hmac=36c612ad7c695ddb49d747a8031490b4"></code>
+  <code><img title="Multicloud" height="25" src="https://image.flaticon.com/icons/png/512/957/957642.png"></code>
 </p>
 <hr>
 
